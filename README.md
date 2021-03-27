@@ -1,28 +1,25 @@
-# This is a large heading
+# Aleksandr Rossoshkin
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Samara, in the Russian Federation.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Harry Potter and the Deathly Hallows* by J.K. Rowling
+- *A Dog's Heart* by Mikhail Bulgakov
+- *Financier* by Theodore Dreiser
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Linger in Denver.
+2. Azura in Jerusalem.
+3. Gemma in New York City.
+
+### Contact
+
+The best way to get in touch with me is [on VK](https://vk.com/iproph).
